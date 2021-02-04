@@ -1,4 +1,4 @@
-# postgres-test-container
+# PostgreSQL Test Container
 
 This is a simple project to use a PostgreSQL as database in container during tests.
 
